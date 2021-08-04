@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/26 20:23:11.000.577,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 21:46:15.000.112,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 21:47:04.000.459,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 12:06:43.000.627,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 12:06:50.000.715,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 12:07:30.000.713,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 12:40:08.000.159,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 12:41:18.000.349,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Exemplos MoedaHoje\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 12:41:18.000.349,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Exemplos MoedaHoje\Unit1.dfm</Transaction>
+    <Transaction>2021/08/04 12:41:24.000.461,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Exemplos MoedaHoje\MoedaHoje.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="avd" Android64="avd"/>
+	</ActiveMobileDevice>
+</BorlandProject>

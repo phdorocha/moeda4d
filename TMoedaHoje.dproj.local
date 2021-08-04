@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/04 11:27:13.000.417,=rtl.dcp</Transaction>
+    <Transaction>2021/08/04 11:27:26.000.627,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\TDolarHoje.dproj</Transaction>
+    <Transaction>2021/08/04 11:27:34.000.915,=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 11:27:44.000.434,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\DolarHoje.pas</Transaction>
+    <Transaction>2021/08/04 11:33:39.000.318,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\TDolarHoje.dproj=C:\Users\RAI\Documents\Embarcadero\Studio\Projects\TMoedaHoje.dproj</Transaction>
+    <Transaction>2021/08/04 11:37:00.000.274,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\DolarHoje.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\DolarHoje.pas</Transaction>
+    <Transaction>2021/08/04 11:37:03.000.484,C:\Users\RAI\Documents\Embarcadero\Studio\Projects\TMoedaHoje.dproj=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.dproj</Transaction>
+    <Transaction>2021/08/04 11:37:12.000.235,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\DolarHoje.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.pas</Transaction>
+    <Transaction>2021/08/04 11:41:41.000.842,=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 11:41:54.000.556,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Unit1.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Consts.pas</Transaction>
+    <Transaction>2021/08/04 11:52:53.000.817,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\Consts.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\UConsts.pas</Transaction>
+    <Transaction>2021/08/04 12:06:21.000.654,=IndyProtocols.dcp</Transaction>
+    <Transaction>2021/08/04 12:06:21.000.667,=IndyCore.dcp</Transaction>
+    <Transaction>2021/08/04 12:06:21.000.641,=IndySystem.dcp</Transaction>
+    <Transaction>2021/08/04 12:42:23.000.165,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\UConsts.pas=</Transaction>
+    <Transaction>2021/08/04 13:01:31.000.557,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.pas</Transaction>
+    <Transaction>2021/08/04 13:01:47.000.489,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.pas=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoeda.pas</Transaction>
+    <Transaction>2021/08/04 13:20:38.000.427,=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.png</Transaction>
+    <Transaction>2021/08/04 13:22:39.000.160,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.png=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.png</Transaction>
+    <Transaction>2021/08/04 13:23:49.000.620,=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.png</Transaction>
+    <Transaction>2021/08/04 13:24:38.000.663,=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.png</Transaction>
+    <Transaction>2021/08/04 13:25:12.000.091,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\TMoedaHoje.png=</Transaction>
+    <Transaction>2021/08/04 13:29:15.000.856,=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.png</Transaction>
+    <Transaction>2021/08/04 13:31:20.000.553,E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.png=</Transaction>
+    <Transaction>2021/08/04 13:33:12.000.027,=E:\Razios\Delphi\componentes delphi xe\i9Componentes\TMoedaHoje\MoedaHoje.png</Transaction>
+  </Transactions>
+</BorlandProject>
